@@ -1,4 +1,4 @@
-# Sentiment-analsysis-using-sentiment-words-dictionaries
+# Sentiment-analysis-using-sentiment-words-dictionaries
 Use positive and negative sentiment words dictionaries to predict rating of an Hotel
 
 # Definition of sentiment analysis
