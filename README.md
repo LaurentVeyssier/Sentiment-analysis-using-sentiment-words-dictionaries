@@ -12,4 +12,4 @@ Let's consider an example with the 2 sentences below.
 
 In this example, the two sentences are dealing with the same topic: There is a piece of legislation in congress that would let one branch of government carry out a new authority. But the opinion expressed in (1) is negative while the opinion in (2) is positive. This difference is **sentiment analysis**.
 
-If we look at the topic of these sentences, we would see exactly the **same content**, characterized by the content words in yellow. If we looked at the form of these sentences, we would see exactly the **same function words**, highlighted in yellow. The only difference between these two sentences is the **sentiment words**.
+If we look at the topic of these sentences, we would see exactly the **same content**, characterized by the content words in yellow. If we looked at the form of these sentences, we would see exactly the **same function words**, highlighted in green. The only difference between these two sentences is the **sentiment words** colored in purple.
