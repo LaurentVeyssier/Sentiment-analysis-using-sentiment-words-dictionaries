@@ -23,6 +23,8 @@ The dataset comprises ratings (High or Low) for more than 5000 hotels.For each h
 The text from the customer reviews will be used to determine the sentiment.
 The positive and negative words from the pre-defined dictionary will provide the dimensions when reviews are converted into numeric vectors for sentiment analysis.
 
+The notebook uses a SVM classifier. An SVM learns a hyperplane in high-dimensional space that maintains the largest separation between classes. Text classification is a high-dimensional problem: we are dealing with large numbers of features. For many models, a document is positioned in 20,000 or more dimensions. As part of its output, a Linear SVM provides an inspectable weight for each feature. This allows interpretations about how the model works. This type of classifier is trained in-memory, which means that we require a machine large enough to hold all the samples in memory at once. While training may take a significant amount of time, we have certain guarantees that the classifier has converged onto the optimal solution.
+
 # Results
 
 The model generalizes very well as the accuracy reached on 530 unseen hotels is 100%.
